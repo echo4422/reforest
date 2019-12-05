@@ -9,7 +9,7 @@ body { font-size:12px; font-family:Arial; color:#666666; background:#ffffff; pos
 
 /*a 链接*/
 a { text-decoration:none; outline:none; blr:expression(this.onFocus=this.blur()); color:#606060;}
-a:hover{ color:#1e64cc; }
+a:hover{ color:#d7000f; }
 
 /*图片居中*/
 .jzimg { display:table-cell; *display:block; overflow:hidden; font:0px/0px 'Arial'; text-align:center; vertical-align:middle;}
